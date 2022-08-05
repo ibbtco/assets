@@ -27,7 +27,7 @@ Token repository [https://github.com/trustwallet/assets](https://github.com/trus
 6. Staking validators info, such as name, image, validator id, website url. [Supported staking coins](https://trustwallet.com/staking/). [Read requirements](#Staking-validators-requirements)
 
 7. Crypto price providers map: [CoinMarketCap](https://github.com/trustwallet/assets/blob/master/pricing/coinmarketcap/mapping.json)
-
+ 
 8. Token and coin info
 
 9. Smart contract deprecation/upgrade [read more](#Update-or-remove-existing-asset)
